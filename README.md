@@ -3,8 +3,6 @@ A method to extract code (javascript in this example) from qr codes in an animat
 
 A fork of https://github.com/txtatech/qr-vid
 
-Sure! Here's a concise README for the script along with installation and dependency instructions:
-
 ## QR-GIF Decoder
 
 ### Description
@@ -49,5 +47,3 @@ python qr-gif-decode.py
 ### License
 
 This script is open-source and licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-Please let me know if you have any other questions or need further assistance!
